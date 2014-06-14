@@ -5,6 +5,10 @@ Flat Editor Scheme for Android Studio and probably all IntellJ products.
 
 Bassed on the color Scheme of the [Flat terminal][1] by Ahmet Sülek.
 
+Preview
+------------
+[![](https://raw.githubusercontent.com/MiguelCatalan/Flat_Scheme-Android_Studio/master/Images/ScreenShot.png)
+
 Installation
 ------------
 
